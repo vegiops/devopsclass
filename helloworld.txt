@@ -1,1 +1,2 @@
 Hi this is a devops demo
+Today is June 11 2018, we are learning git
